@@ -5,5 +5,4 @@ format: jb-book
 root: intro
 chapters:
 - file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: Vancouver_Street_Trees_Analysis_Report_Daniel_Stevens
